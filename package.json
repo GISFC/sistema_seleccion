@@ -1,11 +1,11 @@
 {
-    "title": "SB Admin 2",
-    "name": "startbootstrap-sb-admin-2",
-    "version": "4.1.1",
+    "title": "Sistema seleccion DIRESA",
+    "name": "sistema_seleccion_diresa",
+    "version": "4.2",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "An open source Bootstrap 4 admin theme.",
+    "description": "Sistema de seleccion de personal para DIRESA TACNA",
     "keywords": [
         "css",
         "sass",
